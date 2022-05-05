@@ -22,3 +22,8 @@ Hi 👋 My name is Pedro Lima Carari
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/PedroLimaCarari"><img src="https://github-readme-stats.vercel.app/api?username=PedroLimaCarari&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="PedroLimaCarari's GitHub stats" /></a>
+
+<a href="http://www.github.com/PedroLimaCarari"><img src="https://activity-graph.herokuapp.com/graph?username=PedroLimaCarari&bg_color=1c1917&color=0891b2&line=f97316&point=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/PedroLimaCarari" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLimaCarari&langs_count=10&title_color=f97316&text_color=0891b2&icon_color=f97316&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
